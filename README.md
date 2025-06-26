@@ -46,5 +46,5 @@ SmartMart is a cross-platform mobile application designed to help users search a
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/your-username/SmartMart.git
-cd SmartMart
+git clone https://github.com/your-username/AinevtoryApp.git
+cd Ainevtory
